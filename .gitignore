@@ -39,3 +39,6 @@ out/
 
 ### Postgres data ###
 postgres/database
+
+
+test.properties_
