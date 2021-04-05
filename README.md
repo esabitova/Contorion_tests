@@ -1,5 +1,7 @@
 # Contorion_test
-For this project you need webdrivers.
+For login tests needed test credentials: email and password (should be in properties file)
+
+
 
 # Webdriver installation
 For Windows
